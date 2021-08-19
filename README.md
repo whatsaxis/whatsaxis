@@ -1,7 +1,7 @@
 <h1 align="center">Howdy! 🚀</h1>
 
 <div align="center">
-  I'm a student and have been programming for just under 5 years. I'm most familiar with <code>Python</code> and most recently <code>Javascript</code>.
+  I'm a student and have been programming for just under 5 years. I'm most familiar with <code>Python</code> and more recently <code>Javascript</code>.
 
   I hope you have a great day! ❤️
 </div>
@@ -51,5 +51,5 @@
 <h2 align="center">Contact 📮</h2>
 
 <div align="center">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nchrpEQg33" height="30" width="40" /> <code>WhatsAxis#9999</code>
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nchrpEQg33" height="30" width="40" /> <code>WhatsAxis#8762</code>
 </div>
