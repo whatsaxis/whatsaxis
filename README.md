@@ -45,7 +45,12 @@
  <!---
  Django
  -->
- <a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/></a>
+ <a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/></a>
+ </div>
+ <!---
+ Rust
+ -->
+ <a href="https://www.rust-lang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/></a>
  </div>
 
 <h2 align="center">Contact 📮</h2>
