@@ -1,12 +1,12 @@
-<h1 align="center">Howdy! 🚀</h1>
+<h1 align="center">Hello</h1>
 
 <div align="center">
   I'm a student. I'm most familiar with <code>Python</code>, and absolutely love its import system, like any sane person would.
 
-  I hope you have a great day! ❤️
+  I hope you have a great day!
 </div>
 
-<h2 align="center">Toolshed 🔨</h2>
+<h2 align="center">Tools</h2>
 <div align="center">
  <!---
  HTML5
@@ -47,7 +47,7 @@
  -->
  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/></a>
 
-<h2 align="center">Contact 📮</h2>
+<h2 align="center">Contact</h2>
 
 <div align="center">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nchrpEQg33" height="30" width="40" /> <code>ministry_of_transport</code>
